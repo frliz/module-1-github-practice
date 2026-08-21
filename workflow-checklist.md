@@ -20,4 +20,4 @@
 
 ## Work Session Notes
 
-[COMPLETE THIS: Add at least one sentence before practicing `git stash`.]
+I have completed the fill in the blanks page and filled out my name, course and what i want to in my career.
